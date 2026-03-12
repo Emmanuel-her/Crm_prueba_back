@@ -1,0 +1,36 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+.env.*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Tests and coverage
+htmlcov/
+.coverage
+.tox/
+coverage.xml
+
+# Alembic / Databases
+*.sqlite3
+*.db
